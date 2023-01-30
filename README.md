@@ -2,7 +2,7 @@
 
 ## Question 1. Knowing docker tags
 B) --iidfile string
-commands: 'docker build --help'
+- commands: 'docker build --help'
 
 
 ## Question 2. Understanding docker first run
